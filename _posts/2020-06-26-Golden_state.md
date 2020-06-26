@@ -2,7 +2,7 @@
 layout: post
 title: Golden State 
 subtitle: Are Californian homes a good investment?
-cover-img: assets/img/Untitled design.gif
+#cover-img: assets/img/Untitled design.gif
 tags: [Real Estate, California, homes]
 ---
 
